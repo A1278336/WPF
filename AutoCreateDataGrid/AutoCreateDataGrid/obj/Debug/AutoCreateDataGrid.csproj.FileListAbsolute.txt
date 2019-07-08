@@ -1,0 +1,15 @@
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\bin\Debug\AutoCreateDataGrid.exe.config
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\bin\Debug\AutoCreateDataGrid.exe
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\bin\Debug\AutoCreateDataGrid.pdb
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\AutoCreateDataGrid.csprojAssemblyReference.cache
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\App.g.cs
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\AutoCreateDataGrid_MarkupCompile.cache
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\AutoCreateDataGrid_MarkupCompile.lref
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\MainWindow.baml
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\AutoCreateDataGrid.g.resources
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\AutoCreateDataGrid.Properties.Resources.resources
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\AutoCreateDataGrid.csproj.GenerateResource.cache
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\AutoCreateDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\AutoCreateDataGrid.exe
+C:\Users\ydm\source\repos\WPF\AutoCreateDataGrid\AutoCreateDataGrid\obj\Debug\AutoCreateDataGrid.pdb
