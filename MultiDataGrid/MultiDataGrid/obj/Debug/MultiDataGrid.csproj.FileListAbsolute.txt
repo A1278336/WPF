@@ -1,0 +1,15 @@
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MultiDataGrid.csprojAssemblyReference.cache
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\App.g.cs
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MultiDataGrid_MarkupCompile.cache
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MultiDataGrid_MarkupCompile.lref
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\bin\Debug\MultiDataGrid.exe.config
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\bin\Debug\MultiDataGrid.exe
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\bin\Debug\MultiDataGrid.pdb
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MainWindow.baml
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MultiDataGrid.g.resources
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MultiDataGrid.Properties.Resources.resources
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MultiDataGrid.csproj.GenerateResource.cache
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MultiDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MultiDataGrid.exe
+C:\Users\ydm\source\repos\MultiDataGrid\MultiDataGrid\obj\Debug\MultiDataGrid.pdb
